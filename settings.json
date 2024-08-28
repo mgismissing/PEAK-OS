@@ -1,0 +1,8 @@
+{
+    "bluetooth": {
+        "enabled": true
+    },
+    "wifi": {
+        "enabled": true
+    }
+}
